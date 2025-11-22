@@ -28,3 +28,4 @@ Listing versions ensures full reproducibility of all analyses described in the m
 - **TCGAbiolinks** (v2.32.0)
 - **tidyr** (v1.3.1)
 - **UpSetR** (v1.4.0)
+- **RColorBrewer** (v1.1.3) 
