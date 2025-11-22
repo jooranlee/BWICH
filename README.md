@@ -2,6 +2,9 @@
 
 This is the repo for the manuscript "B-WICH Complex Cooperates with the RNA Exosome to Resolve Transcriptional Onco-Condensates".
 
+
+This project was developed and tested in **R (version 4.4.1)** using the following packages.
+Listing versions ensures full reproducibility of all analyses described in the manuscript:
 - **clusterProfiler** (v4.12.6)
 - **circlize** (v0.4.16)
 - **ComplexHeatmap** (v2.20.0)
